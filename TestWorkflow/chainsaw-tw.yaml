@@ -1,7 +1,7 @@
 kind: TestWorkflow
 apiVersion: testworkflows.testkube.io/v1
 metadata:
-  name: chainsaw-sample
+  name: chainsaw-testkube
   namespace: testkube
 spec:
   content:
