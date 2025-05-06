@@ -11,5 +11,5 @@ spec:
     image: ghcr.io/kyverno/chainsaw:latest
   steps:
   - name: Run test
-    shell: chainsaw test /data/repo/chainsaw-test/basic-tests/chainsaw-test.yaml
+    shell: chainsaw test /data/repo/chainsaw-test/basic-test/chainsaw-test.yaml
 status: {}
